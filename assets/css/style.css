@@ -1,0 +1,59 @@
+body{
+    width: 960px;
+}
+
+a{
+    color: blue;
+    background: teal;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+
+a:visited{
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    text-decoration: none;
+    color: blue;
+}
+
+.nametag{
+    float:left;
+    margin-right: 500px;
+}
+
+.index_link{
+
+}
+
+.portfolio_link{
+
+}
+
+.contact_link{
+
+}
+
+.nav_header{
+    position: relative;
+    height: 60px;
+    background: lightsteelblue;
+}
+
+.body_div{
+    position: relative;
+    height: 500px;
+    background: lightgreen;
+}
+
+.linebreak_pipe{
+    position: absolute;
+    border-top: 5px;
+    border-color: black;
+    padding: 1px;
+}
