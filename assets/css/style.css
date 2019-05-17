@@ -36,22 +36,21 @@ a:hover{
 
 .nametag{
     background: #4aaaa5;
-    float:left;
-    margin-right: 500px;
+    color: #ffffff;
+    float: left;
+    padding: 20px;
 }
 
-.index_link{
-
+.vert_divide{
+    float: right;
+    padding: 20px;
 }
 
-.portfolio_link{
+.link{
+    float: right;
+    padding: 20px;
 
 }
-
-.contact_link{
-
-}
-
 
 .body_div{
     position: relative;
