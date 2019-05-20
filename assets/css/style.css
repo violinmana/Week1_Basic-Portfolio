@@ -86,6 +86,10 @@ a:hover {
     border-color: #dddddd;
 }
 
+#portfolio_body {
+    height: 1100px;
+}
+
 .linebreak_pipe {
     width: 95%;
     margin: auto;
@@ -129,7 +133,63 @@ a:hover {
 }
 
 .image_grid {
+    position: relative;
     padding: 25px;
+}
+
+.img {
+    position: absolute;
+}
+
+#img_2 {
+    left: 250px;
+}
+
+#img_3 {
+    top: 350px;
+
+}
+
+#img_4 {
+    left: 250px;
+    top: 350px;
+
+}
+
+#img_5 {
+    top: 675px;
+
+}
+
+.bar {
+    position: absolute;
+    width: 80px;
+    padding: 20px 60px 20px 60px;
+    background-color: #4aaaa5;
+    color: #dddddd;
+}
+
+#bar_1 {
+    top: 250px;
+}
+
+#bar_2 {
+    left: 250px;
+    top: 250px;
+}
+
+#bar_3 {
+    top: 575px;
+}
+
+#bar_4 {
+    left: 250px;
+    top: 575px;
+}
+
+#bar_5 {
+    top: 900px;
+
 }
 
 .footer {
